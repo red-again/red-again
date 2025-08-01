@@ -7,7 +7,7 @@ I break systems to understand how they work, uncover vulnerabilities,
 and sharpen my skills in offensive security.
 
 > Welcome to BreakingDotTech 🛠  
-A space where we break the system, hack the tech.
+A space where we BREAK into system and hack the TECH.
 
 Here you\'ll find:
 - Labs and walkthroughs for Kubernetes Hacking, Active Directory Hacking, cloud hacking and more
