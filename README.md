@@ -14,7 +14,7 @@
 Offensive security engineer focused on cloud-native, Kubernetes, and AI infrastructure. I build tools to automate cloud attack path validation and research container escapes.
 
 ## Technical Focus
-* Cloud Security (AWS/Azure IAM path abuse, trust relationship bypasses)
+* Cloud Identity & IAM Security (AWS/Azure path abuse, trust relationship bypasses, privilege escalation)
 * Container Security (EKS workload identity, RBAC misconfigurations, namespace escapes)
 * AI Infrastructure (Model Context Protocol boundaries, ML pipeline integrity)
 * Systems Programming (Go, Python, Linux internals)
