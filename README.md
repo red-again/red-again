@@ -20,8 +20,9 @@ $ cat <<EOF
 "The old state is wiped. The system is refactored. Read it again."
 ~ dev
 EOF
----
+
 ```
+---
 
 > **red-again** (n.) /ˌrɛd əˈɡɛn/
 > *A phonetic play on "read again" - a reminder to audit the source code, inspect the configurations, and study the protocols until the path becomes clear.*
