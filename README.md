@@ -6,7 +6,7 @@ Offensive security engineer focused on cloud-native, Kubernetes, AI infrastructu
 * Cloud Identity & IAM Security (AWS/Azure Security, trust relationship bypasses, privilege escalation)
 * Container Security (EKS workload identity, RBAC misconfigurations, namespace escapes)
 * AI Infrastructure (Model Context Protocol boundaries, ML pipeline integrity)
-* Systems & Security Research (Windows internals, malware development, binary analysis, Go/Python)
+* Systems & Security Research (Windows internals, malware development, Go/Python)
 
 ## Certifications
 * Certified Red Team Expert (CRTE)
