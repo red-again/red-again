@@ -15,7 +15,7 @@ Offensive security engineer focused on cloud-native, Kubernetes, AI infrastructu
 
 ---
 
-```
+```bash
 $ cat <<EOF
 "The old state is wiped. The system is refactored. Read it again."
 ~ dev
