@@ -1,6 +1,6 @@
 # red-again
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1200&pause=1000&color=F1F5F9&background=0F172A&center=false&vCenter=true&repeat=false&width=700&height=50&lines=Welcome+to+red-again..;Read+the+code.+Break+the+path.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1200&pause=1000&color=F1F5F9&background=0F172A&center=false&vCenter=true&repeat=false&width=500&height=50&lines=Welcome+to+red-again..)](https://git.io/typing-svg)
 
 ---
 
