@@ -14,9 +14,8 @@ I am an offensive security engineer and researcher focused on **Cloud-Native, Ku
 
 I build tools to automate cloud attack path validation and research container breakout techniques. My approach combines systems-level programming, offensive engineering, and responsible disclosure to make modern cloud environments resilient.
 
-*   🌐 **Portfolio:** [devanshunagpal.com](https://devanshunagpal.com)
 *   📝 **Research Blog:** [devanshu.red](https://devanshu.red)
-*   🔑 **PGP Key / Contact:** Available on request
+*   ✉️ **Contact:** `your-anonymous-email@proton.me` or via GitHub Issues
 
 ---
 
