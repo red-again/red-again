@@ -6,25 +6,9 @@ Offensive security engineer focused on cloud-native, Kubernetes, AI infrastructu
 * Cloud Identity & IAM Security (AWS/Azure Security, trust relationship bypasses, privilege escalation)
 * Container Security (EKS workload identity, RBAC misconfigurations, namespace escapes)
 * AI Infrastructure (Model Context Protocol boundaries, ML pipeline integrity)
+* Active Directory (Windows, Hybrid AD)
 * Systems & Security Research (Windows internals, malware development, Go/Python)
-
-## Certifications
-* Certified Red Team Expert (CRTE)
-* Certified Active Directory Red Team Professional (CARTP)
-* Practical Malware Analysis & Triage (PMAT)
-
----
-
-```bash
-$ cat <<EOF
-"The old state is wiped. The system is refactored. Read it again."
-~ dev
-EOF
-
-```
 ---
 
 > **red-again** (n.) /ˌrɛd əˈɡɛn/
-> *A phonetic play on "read again" - a reminder to audit the source code, inspect the configurations, and study the protocols until the path becomes clear.*
-
 ---
