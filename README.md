@@ -12,3 +12,4 @@ Offensive security engineer focused on cloud-native, Kubernetes, AI infrastructu
 
 > **red-again** (n.) /ˌrɛd əˈɡɛn/
 ---
+<img width="500" height="314" alt="image" src="https://github.com/user-attachments/assets/870572a4-75b5-4c37-a894-cc7c224f8e3f" />
