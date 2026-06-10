@@ -1,6 +1,6 @@
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> Whoami
-
-Offensive security engineer focused on cloud-native, Kubernetes, AI infrastructure, and Hybrid AD Research. I build tools to automate cloud attack path validation and analyze systems-level components.
+Nerd, Loves tech.... focused on cloud-native, Kubernetes, AI, MCP, and Hybrid AD Research. This is my safe space to dump all the sloppy code I write or vibe code to solve problems I face during my research. So bear with me...... 
+If you like it do reach out and help me improve with your thoughts, ideas, or maybe PRs ;P
 
 ## Technical Focus
 * Cloud Identity & IAM Security (AWS/Azure Security, trust relationship bypasses, privilege escalation)
