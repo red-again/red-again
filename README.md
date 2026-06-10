@@ -1,5 +1,5 @@
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> Whoami
-Nerd, Loves tech.... focused on cloud-native, Kubernetes, AI, MCP, and Hybrid AD Research. This is my safe space to dump all the sloppy code I write or vibe code to solve problems I face during my research. So bear with me...... 
+Nerd who Loves tech.... focused on cloud-native, Kubernetes, AI, MCP, and Hybrid AD Research. This is my safe space to dump all the sloppy code I write or vibe code to solve problems I face during my research. So bear with me...... 
 If you like it do reach out and help me improve with your thoughts, ideas, or maybe PRs ;P
 
 ## Technical Focus
