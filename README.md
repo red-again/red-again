@@ -4,11 +4,10 @@ Nerd who Loves tech.... focused on cloud-native, Kubernetes, AI, MCP, and Hybrid
 If you like it do reach out and help me improve with your thoughts, ideas, or maybe PRs ;P
 
 ## Technical Focus
-* Cloud Identity & IAM Security (AWS/Azure Security, trust relationship bypasses, privilege escalation)
-* Container Security (EKS workload identity, RBAC misconfigurations, namespace escapes)
+* Cloud-Native Security(AWS/Azure/K8s Security)
 * AI Infrastructure (Model Context Protocol boundaries, ML pipeline integrity)
 * Active Directory (Windows, Hybrid AD)
-* Systems & Security Research (Windows internals, malware development, Go/Python)
+
 ---
 
 > **red-again** (n.) /ˌrɛd əˈɡɛn/
