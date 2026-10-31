@@ -8,6 +8,5 @@ Nerd who Loves tech.... focused on cloud-native, Kubernetes, AI, MCP, and Hybrid
 * Active Directory (Windows, Hybrid AD)
 
 ---
-
-> **red-again** (n.) /ˌrɛd əˈɡɛn/
+rɛd əˈɡɛn
 ---
