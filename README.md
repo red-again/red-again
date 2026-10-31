@@ -11,4 +11,3 @@ Nerd who Loves tech.... focused on cloud-native, Kubernetes, AI, MCP, and Hybrid
 
 > **red-again** (n.) /ˌrɛd əˈɡɛn/
 ---
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/cc376f20-2b2f-4cc2-886f-e19ac72e82ce" />
